@@ -41,4 +41,4 @@ Predict residential home prices in Ames, Iowa using 79 explanatory variables.
 5. **Intelligent clipping** prevents catastrophic outlier predictions.
 
 ## 👤 Author
-[Zeyad Al-Dhirat] — [https://www.kaggle.com/ziad347]
+[Zeyad Al-Dhirat] — [[https://www.kaggle.com/ziad347](https://www.kaggle.com/ziad1234ahmad5678)]
