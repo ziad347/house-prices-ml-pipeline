@@ -24,6 +24,10 @@ Predict residential home prices in Ames, Iowa using 79 explanatory variables.
 **Best Model**: XGBoost (v3) — Top 4% on the public leaderboard.
 
 ## 📁 Project Structure
+├── notebooks/
+│ └── xgboost-vs-lr.ipynb
+├── submission.csv
+└── README.md
 
 ## 🚀 How to Run
 1. Open the notebook in Kaggle.
